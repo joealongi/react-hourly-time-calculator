@@ -10,7 +10,7 @@
   "dependencies": {
     "formik": "^2.2.6",
     "jquery": "^3.6.0",
-    "next": "13.2.1",
+    "next": "14.2.35",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hourly-time-calculator": "file:"
